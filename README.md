@@ -12,11 +12,11 @@ A decentralized application (dApp) for creating, managing, and tracking shipment
 
 ### 🔹 Dashboard & Controls
 
-![Dashboard](public/screen1.png)
+![Dashboard](my-steller-app/public/screen1.png)
 
 ### 🔹 Shipment Logs & Tracking
 
-![Shipment Logs](public/screen2.png)
+![Shipment Logs](my-steller-app/public/screen2.png)
 
 ---
 
