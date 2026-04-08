@@ -29,6 +29,7 @@ A decentralized application (dApp) for creating, managing, and tracking shipment
 
 - **Network**: Stellar Testnet
 - **Contract ID**: `CAD5XNVMV7ZVIMLKUIKCTRCREPHZ4U2YIELTIFEBFSHUROKGOIORU4OP`
+-  **DEMO_ADDR**: `GDGPCDOK57AM3VSX3GK4R67C6IAKG5GE2FJ6VD5UL2CZJFTPAUMSY2CX`;
 - **RPC Endpoint**: `https://soroban-testnet.stellar.org`
 
 ## 🚀 Getting Started
