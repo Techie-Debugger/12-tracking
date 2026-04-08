@@ -12,11 +12,11 @@ A decentralized application (dApp) for creating, managing, and tracking shipment
 
 ### 🔹 Dashboard & Controls
 
-![Dashboard](public/Screenshot%202026-03-31%20130703.png)
+![Dashboard](public/screen1.png)
 
 ### 🔹 Shipment Logs & Tracking
 
-![Shipment Logs](public/Screenshot%202026-03-31%20130715.png)
+![Shipment Logs](public/screen2.png)
 
 ---
 
