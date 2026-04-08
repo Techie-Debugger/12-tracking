@@ -12,11 +12,11 @@ A decentralized application (dApp) for creating, managing, and tracking shipment
 
 ### 🔹 Dashboard & Controls
 
-![Dashboard](my-stellar-app/public/Screenshot%202026-03-31%20130703.png)
+![Dashboard](public/Screenshot%202026-03-31%20130703.png)
 
 ### 🔹 Shipment Logs & Tracking
 
-![Shipment Logs](my-stellar-app/public/Screenshot%202026-03-31%20130715.png)
+![Shipment Logs](public/Screenshot%202026-03-31%20130715.png)
 
 ---
 
@@ -98,8 +98,8 @@ npm run dev
 ## 🏆 Why This Project Stands Out
 
 * Fully **on-chain logistics tracking**
-* **Immutable audit trail** (no tampering possible)
-* Combines **Web3 + real-world supply chain**
-* Clean **developer + user experience**
+* **Immutable audit trail**
+* Real-world **supply chain use-case**
+* Clean **UI + developer experience**
 
 ---
